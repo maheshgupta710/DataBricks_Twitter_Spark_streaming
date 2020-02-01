@@ -20,10 +20,10 @@ import org.apache.spark.streaming._
 val ssc = new StreamingContext(sc, Seconds(10)) 
 
 // values of Twitter API.
-val consumerKey = "Pss5FWGznhzKMV6hvgijsTnyb" // Your consumerKey 
-val consumerSecret = "Qv2Vj8l9oibprKMgWdiF1Wjl2o7zKUJDrMOpPcJBCnPKjaWY1v" // your API secret
-val accessToken ="3171975482-9ZMda3iOgdx707C828K3sc4WfZRJt83Y9xJEw9b" // your access token
-val accessTokenSecret = "k8rjeBrrRPCoqxy7ewtYcIiQms65yUihQBa3I5PSG0eqe" // your token secret
+val consumerKey = "xxxxxxxxxxxxxxxxxxx" // Your consumerKey 
+val consumerSecret = "xxxxxxxxxxxxxxxxxxx" // your API secret
+val accessToken ="xxxxxxxxxxxxxxxxxxx" // your access token
+val accessTokenSecret = "xxxxxxxxxxxxxxxxxxx" // your token secret
 
 //Connection to Twitter API
 val cb = new ConfigurationBuilder
