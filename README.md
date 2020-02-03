@@ -1,2 +1,1 @@
-# Mahadoop
-all the project related to hadoop 
+streaming data from twitter to databricks scala. 
